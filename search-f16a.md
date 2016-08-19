@@ -62,9 +62,9 @@ There are three basic types of search tools that most people use to find what th
 
 >None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, you can use these Web search tools to scour different parts of the Web, obtain different types of information, and broaden your Web search horizons.
 
->**Search the Web with Search Engines**
+**Search the Web with Search Engines**
 
->Search engines are proprietary tools which build indexes toa large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
+Search engines are proprietary tools which build indexes toa large number of web sites and provide a public link to access the index. They discover sites to index using web crawlers (spiders), entering those sites, and collecting key words which identify the themes of the sites. Google is a well know search index,  You type in a keyword or phrase and the search engine retrieves pages that correspond to your search query. 
 
 >Search results gathered from these search engines are not always relevant to the keywords entered, since these engines are not intuitive and cannot infer dynamically what it is you might be searching for (although results are getting better all the time). Although the spiders run 24/7, it takes a long time to cover the surface web. Information from such search indexes is not always current.
 
