@@ -58,14 +58,13 @@ You may also encounter a set of search terms which will help you to search the i
 
 Boswell describes  three basic types of search tools that people use to find what they are looking for on the Web.  (Boswell, http://goo.gl/ZTnBNl, updated 20 Feb 2016 ) 
 
->  .
 There are three basic types of search tools that most people use to find what they are looking for on the Web (there's more than this, but these are the basics that everyone should start with):
 
 >>Search Engines - index of selected pages
 >>Subject Directories - index by topic
 >>MetaSearch Tools - index drawn from multiple search engines
 
->None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, >you can use these Web search tools to scour different parts of the Web, obtain different types of information, and >broaden your Web search horizons.
+>None of these search tools allow you to search the entire Web; that would be an almost impossible task. >However, you can use these Web search tools to scour different parts of the Web, obtain different types >of information, and broaden your Web search horizons.
 
 **Search the Web with Search Engines**
 
@@ -83,7 +82,7 @@ For example, visit http://goo.gl/CxQmfj for a sample of 10 different search engi
 
 Search Engines have been adding Artificial Intelligence  (AI) or Machine Intelligence (MI) to the software involved in the process.  A simple query is often sufficient, but may produce a lot of responses to the query. Fortunately, it is possible to add refinements to reduce the responses. This practice is commonly known as "filtering" and is dependent on which search tool you are using. Filtering with Google will be different from filtering with Firefox or with DuckDuckGo.
 	
-To see a list of filters **for Google searches**, go to https://goo.gl/6aP09x. Remember that these filters apply only to Google,. In addition, Google has discontinued use of the + symbol to require that a search item is required to be present in the results. Other search engines often use a similar a similar set of codes, including + symbol. Look for filter definitions for search engines you may use.
+To see a list of filters **for Google searches**, go to https://goo.gl/6aP09x. Remember that these filters apply only to Google. In addition, Google has discontinued use of the + symbol to require that a search item is required to be present in the results. Other search engines often use a similar set of codes, including + symbol. Look for filter definitions for search engines you may use.
 
 
 # Day 3 Subject Directories #
@@ -129,7 +128,7 @@ https://www.wikipedia.org/
 Online Tech Dictionary:
 https://www.google.com/search?q=webpedia&oq=webpedia&aqs=chrome..69i57.9423j0j4&sourceid=chrome&ie=UTF-8
 
-And many variations of dictionaries, including, of courst:
+And many variations of dictionaries, including, of course:
 https://www.oxforddictionaries.com/us
 
 This is but a sample of what is available from widely available databases. Most can be found via the Surface Web because they are registered with search engines. There are many more than I can count, much less demonstrate. 
