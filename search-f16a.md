@@ -4,43 +4,48 @@
 by **Lewis Overton**
 Revised for Fall Session 1, 2016
 
-
+````
 University of Alaska Fairbanks
 OSHER Lifelong Learning Institute
 UAF Summer Sessions
-
+````
 # Day 1 Introduction
 
 ## Scope of the course
 	This course will explore searching of the internet. Please be aware that the art and science of searching extremely large data sources is one of the oldest, most studied, and complex topics in all of information technology. Basic searching techniques have become simple to perform. Anyone who has used a computer connected to the internet has performed searches, perhaps without knowing they are doing so. I will introduce extensions beyond basic searching, but in four classes of well under two hours each, I can only point out some places where you can explore in depth. That exploration is up to you, depending on your interest and your perseverance. 
 	
-	The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X El Capitan, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
+	The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X _El Capitan_, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
+	
+	This course draws heavily on work by Wendy Boswell, published at <http://goo.gl/apdQTS> (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. 
 	
 	We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed behind forms that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, gun dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
 
 ## Limitations:
 	Access to the internet is available from our classroom, but it is unlikely that everyone can connect at the same time. The instructor will use a separate connection so that he doesn't get locked out by network overload.
 	
-	Most of the capability to search the internet is dependent on software running on a remote computer. The search capabilities are only marginally related to to the browser you use. Your choice of browser will be touched on only lightly and is mostly decided by personal taste and ease of use. My primary browsers are Chrome, Firefox. I occasionally use Safari or Tor, both of which may be chosen for capabilities unique to what they do in specific circumstances.  
+	Most of the capability to search the internet is dependent on software running on a remote computer. The search capabilities are only marginally related to to the browser you use. Your choice of browser will be touched on only lightly and is mostly decided by personal taste and ease of use. My primary browsers are Chrome and Firefox. I occasionally use Safari or Tor, either of which may be chosen for capabilities unique to what they do in specific circumstances.  
 
 ## Conventions
 	I have provided a **Notes File** which contains text from the lecture part of the class, links to  sites with relevant information, and suggestions for search terms on specific topics. The Notes File is available from the OLLI Web server (see below).
 	
-	The  Notes File is provided in PDF (Portable Document Format), which should be readable on any computer. This file is intended to relieve you of the need to copy to paper links and comments from class. I **strongly encourage** you to download the Notes File and save it on your computer. The text is provided in PDF format (Portable Document Format).  All of the searches, downloads, and supporting materials can be used from any location where you have access to the internet. I suggest you work with the Notes File  from home.  Most browsers will take you to the destination website if you click on the link. Work with the PDF file, not a print out. 
+	The  Notes File is provided in PDF (Portable Document Format), which should be readable on any computer. This file is intended to relieve you of the need to copy to paper links and comments from class. 
+I **strongly encourage** you to download the Notes File and save it on your computer. The text is provided in PDF format (Portable Document Format).  All of the searches, downloads, and supporting materials can be used from any location where you have access to the internet. I suggest you work with the Notes File  from home.  Most browsers will take you to the destination website if you click on the link. Work with the PDF file, not a print out. 
 	
 ### Using links to additional information
 
-Links to web sites should appear in blue text. There are two formats for links: the full link or a shortened link. For example, **access to the OLLI server** is available in two formats. Both forms will take you to the same place. Most browsers will allow you to click on a link to go there.
+Links to web sites should appear in blue text. There are two formats for links: the full link or a shortened link. For example, **access to the OLLI server** is available in two formats. Both forms will take you to the same place. Most browsers will allow you to click on a link to go there. Links to other sites may take one of two forms: short form or long form.
 	
-https://uaf.edu/olli/classes-and-lectures/reference-materials-for-s/ (long form)
-or
-https://goo.gl/Y4G4lI (short form)
+I usually use the short form for convenience which looks like this:
+>https://goo.gl/Y4G4lI 
+
+The long form looks like this:
+>https://uaf.edu/olli/classes-and-lectures/reference-materials-for-s/ 
 
 Either form of these links will take you to the same internet site. The short form is provided to avoid what are often very long internet addresses. I will often use the short form
 
 ### Search for information
 
-You will also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:** will be followed by a few keywords. Copy the keywords listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
+You may also encounter a set of search terms which will help you to search the internet for multiple sites related to our discussions. The prefix **Search for:** will be followed by a few keywords. Copy the keywords listed, paste them into the search field of your browser, and execute the search. This should return a list of web sites on our current topic. Browse through some of them for more information on the topic.
 
 ## Home Tasks ##
 
@@ -51,16 +56,16 @@ You will also encounter a set of search terms which will help you to search the 
 
 ## Introduction ##
 
-This course draws heavily on http://goo.gl/apdQTS (from https://about.com). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. As Wendy Boswell wrote at http://websearch.about.com/od/internetresearch/a/whatissearch.htm, updated 
+Boswell describes  three basic types of search tools that people use to find what they are looking for on the Web.  (Boswell, http://goo.gl/ZTnBNl, updated 20 Feb 2016 ) 
 
->   Updated February 20, 2016.
+>  .
 There are three basic types of search tools that most people use to find what they are looking for on the Web (there's more than this, but these are the basics that everyone should start with):
 
 >>Search Engines - index of selected pages
 >>Subject Directories - index by topic
 >>MetaSearch Tools - index drawn from multiple search engines
 
->None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, you can use these Web search tools to scour different parts of the Web, obtain different types of information, and broaden your Web search horizons.
+>None of these search tools allow you to search the entire Web; that would be an almost impossible task. However, >you can use these Web search tools to scour different parts of the Web, obtain different types of information, and >broaden your Web search horizons.
 
 **Search the Web with Search Engines**
 
