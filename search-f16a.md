@@ -34,7 +34,7 @@ I **strongly encourage** you to download the Notes File and save it on your comp
 	
 ### Using links to additional information
 
-Links to web sites should appear in blue text. There are two formats for links: the full link or a shortened link. For example, **access to the OLLI server** is available in two formats. Both forms will take you to the same place. Most browsers will allow you to click on a link to go there. Links to other sites may take one of two forms: short form or long form.
+Links to web sites should appear in blue text or in bold text. Which depends on which editor I use to convert to PDF. I presently have less control of that than I like. We take what we are served. There are two formats for links: the full link or a shortened link. For example, **access to the OLLI server** is available in two formats. Both forms will take you to the same place. Most browsers will allow you to click on a link to go there. Links to other sites may take one of two forms: short form or long form.
 	
 I usually use the short form for convenience which looks like this:
 >https://goo.gl/Y4G4lI 
