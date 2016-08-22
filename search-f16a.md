@@ -17,7 +17,7 @@ This course will explore searching of the internet. Please be aware that the art
 The instructor (hereafter known as "I", "me", or "Lewy") will use his (I'm male) personal MacBook Pro running Mac OS X _El Capitan_, version 10.11.5 for examples and demonstrations. However, the principles of internet searching apply to any operating system including Windows. A Windows computer is available if people want to see how things are done using that OS. I have not used Windows in years, so do not expect amazing, wizardly tips.
 	
 This course draws heavily on work by Wendy Boswell, published at <http://goo.gl/apdQTS> (from <https://about.com>). Exploring this link will lead you down a long  trail of breadcrumbs about many aspects of internet searching. 
-	
+
 We will be looking at three levels of the internet: the Surface Web, the Deep Web, and the Dark Web.The surface web is the part that is searchable from sites like Google and similar search engines, which accumulate web addresses by crawling through thousands of web sites and building an index of words found at those sites. The Deep Web refers to online databases and other dynamic pages that cannot be indexed by common search engines like Google. These sites contain data which are accessed through sites that provide access to details. The Dark Web contains data which people are trying to hide. Those people may be drug dealers, gun dealers, and others who may have nefarious reasons for keeping you out. We will discuss the dark web, but approach it with caution or, even better, stay away. Here be dragons. 
 
 ## Limitations:
@@ -126,8 +126,8 @@ https://www.cia.gov/library/publications/the-world-factbook/
 Most people are probably familiar with Wikipedia. There are a number of Wiki-whatever or whatever-pedia sites. Be careful (as always) with the credibility of sources referenced and the reliability of the data. 
 https://www.wikipedia.org/
 
-The Online Tech Dictionary provides a lookup for technical terms about computing at
-https://www.google.com/search?q=webpedia&oq=webpedia&aqs=chrome..69i57.9423j0j4&sourceid=chrome&ie=UTF-8
+The Online Tech Dictionary from Webopedi provides a lookup for technical terms about computing at
+https://goo.gl/ClInBA
 
 There are many other dictionaries online, including, of course:
 https://www.oxforddictionaries.com/us
@@ -144,7 +144,7 @@ The Deep Web comprises web sites which are not found by search engines and are n
 
 ### The Dark Web  
 
-There is also a portion of the web dedicated to criminal activities. It is sometimes called the Dark Web, which may contain sites related to criminal activity. I urge **EXTREME CAUTION** before you venture into the Dark Web. **Even better,** avoid this area of the internet completely unless you know **exactly** what your are doing. In particular, be prepared with high-tech security and anonymity tools to protect yourself and your identity. For more information on the Dark Web, I recommend exploring the history of the Silk Road. Start with the wikipedia link  <https://en.wikipedia.org/wiki/Silk_Road_/(marketplace/)>. From there you will find ways to learn more about the Dark Web. Procede with care. At least consider using Tor browser to help hide the link back to your computer if you attempt to access the Dark Web. The Wikipedia site mentioned above is safe. Entering the Dark Web is not.
+There is also a portion of the web dedicated to criminal activities. It is sometimes called the Dark Web, which may contain sites related to criminal activity. I urge **EXTREME CAUTION** before you venture into the Dark Web. **Even better,** avoid this area of the internet completely unless you know **exactly** what you are doing. In particular, be prepared with high-tech security and anonymity tools to protect yourself and your identity. For more information on the Dark Web, I recommend exploring the history of the Silk Road. Start with the wikipedia link  <https://en.wikipedia.org/wiki/Silk_Road_/(marketplace/)>. From there you will find ways to learn more about the Dark Web. Procede with care. At least consider using Tor browser to help hide the link back to your computer if you attempt to access the Dark Web. The Wikipedia site mentioned above is safe. Entering the Dark Web is not.
 
 ## Evaluations
 
